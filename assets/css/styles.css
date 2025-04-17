@@ -305,6 +305,9 @@ img {
 .skills__img {
   border-radius: 0.5rem;
 }
+.video__img {
+  border-radius: 0.2rem;
+}
 
 /* ===== WORK =====*/
 .work__container {
@@ -390,8 +393,8 @@ img {
     margin-right: var(--mb-4);
   }
   .home__img {
-    width: 300px;
-    bottom: 25%;
+    width: 327px;
+    bottom: 20%;
   }
   .about__container {
     grid-template-columns: repeat(2, 1fr);
